@@ -1,0 +1,25 @@
+body{
+    background-color:#f8f8f8;
+    /* background-color: #e0ebe8; */
+}
+hr{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #cec6bd;
+    border-width: 5px;
+    width: 3%;
+    
+}
+img{
+    width: 150px;
+}
+h1{
+    color: #66bfbf;
+    font-family:"garamond,serif";
+}
+h3{
+    color: #66bfbf;
+    font-family:"garamond-pro";
+ 
+}
